@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./content ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshineyanghui/gitbook-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshineyanghui/gitbook-note/issues"
+  },
+  "homepage": "https://github.com/sunshineyanghui/gitbook-note#readme"
+}
